@@ -1,0 +1,4 @@
+# train
+koa
+sequelize
+mysql
